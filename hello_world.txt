@@ -1,3 +1,5 @@
-Hello this is my first line of text.
-Very confusing for the time being.
-Will get better
+Hello World,
+So, once we edit our document here, the next step is to go to our terminal,
+and input "git status"
+This will make us aware of any changes that were made to these files,
+Afterward,
